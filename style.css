@@ -16,7 +16,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: url("./giphy.gif");
+  background: url("./robot.gif");
   background-size: contain;
   background-position: 20% 50%;
   background-repeat: no-repeat;
